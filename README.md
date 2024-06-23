@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lis090
+- 👀 I’m interested in ... building companion robots for home/life automation
+- 🌱 I’m currently learning ... how to code and program
+- 😄 Pronouns: ... she/her
+- ⚡ Fun fact: ... my robot is called Kenji
